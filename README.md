@@ -14,8 +14,8 @@ The Template Matching Algorithm consist of two parts:
 
 Clone from Git
 ```bash
-git clone git@github.com:sharmaanix/template_matching.git
-cd template_matching
+git clone git@github.com:sharmaanix/Template_similarity.git
+cd Template_similarity
 sudo docker-compose up --build
 ```
 
