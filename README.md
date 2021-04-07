@@ -34,12 +34,6 @@ RESPONSE as
 
 # Efficiency
 
-### Before reducing image dimension and  without Dask 
-![Alt text](output/time_required.jpg?raw=true "Time taken without resizing and Parallel computation")
-
-### Before reducing image dimension and  without Dask 
-![Alt text](output/time_required1.jpg?raw=true "Time taken with resizing and Parallel computation")
-
 # Result
-![Alt text](output/result.jpg?raw=true "Result from the Postman")
+![img](result.jpg) 
 
