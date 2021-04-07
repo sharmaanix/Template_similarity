@@ -32,8 +32,12 @@ RESPONSE as
 }
 ```
 
-# Efficiency
+## Time require before reducing image size and dask
+![image_1](https://raw.githubusercontent.com/sharmaanix/Template_similarity/main/output/time_required.png) 
 
-# Result
-![img](result.jpg) 
+## Time required after reducing image  size and parallel computing using dask
+![image_2](https://raw.githubusercontent.com/sharmaanix/Template_similarity/main/output/time_required1.png) 
+
+## Result
+![image_3](https://raw.githubusercontent.com/sharmaanix/Template_similarity/main/output/result.png) 
 
